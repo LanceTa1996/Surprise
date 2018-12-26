@@ -1,6 +1,6 @@
 function removeElement(elementId) {
 	
-	var password = "LanceIsBTY";
+	var password = "affirmation";
 	var attempt = document.getElementById("helloo").value;
 	if(password == attempt){
 		alert("Login successful");
